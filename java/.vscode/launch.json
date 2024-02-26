@@ -1,0 +1,287 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "patternQagain",
+            "request": "launch",
+            "mainClass": "patternQagain",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "PatterQuestion",
+            "request": "launch",
+            "mainClass": "PatterQuestion",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "binary",
+            "request": "launch",
+            "mainClass": "binary",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "CyclicSort",
+            "request": "launch",
+            "mainClass": "CyclicSort",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatterQuestion",
+            "request": "launch",
+            "mainClass": "PatterQuestion",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linearsearch",
+            "request": "launch",
+            "mainClass": "Linearsearch",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionBS",
+            "request": "launch",
+            "mainClass": "recursionBS",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch recusionsmpl",
+            "request": "launch",
+            "mainClass": "recusionsmpl",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionno",
+            "request": "launch",
+            "mainClass": "recursionno",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrayalist",
+            "request": "launch",
+            "mainClass": "Arrayalist",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrayss",
+            "request": "launch",
+            "mainClass": "Arrayss",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch functionoverloadig",
+            "request": "launch",
+            "mainClass": "functionoverloadig",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch variablelengtharguments",
+            "request": "launch",
+            "mainClass": "variablelengtharguments",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch shadowing",
+            "request": "launch",
+            "mainClass": "shadowing",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch nestedswitch",
+            "request": "launch",
+            "mainClass": "nestedswitch",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch switchnew",
+            "request": "launch",
+            "mainClass": "switchnew",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch switchkk",
+            "request": "launch",
+            "mainClass": "switchkk",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch basicQ",
+            "request": "launch",
+            "mainClass": "basicQ",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoopQ",
+            "request": "launch",
+            "mainClass": "LoopQ",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Whileloop",
+            "request": "launch",
+            "mainClass": "Whileloop",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops2",
+            "request": "launch",
+            "mainClass": "Loops2",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Switchs",
+            "request": "launch",
+            "mainClass": "Switchs",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conditions",
+            "request": "launch",
+            "mainClass": "Conditions",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Primitives",
+            "request": "launch",
+            "mainClass": "Primitives",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Variable",
+            "request": "launch",
+            "mainClass": "Variable",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Helloworld",
+            "request": "launch",
+            "mainClass": "Helloworld",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ayush",
+            "request": "launch",
+            "mainClass": "Ayush",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraysis",
+            "request": "launch",
+            "mainClass": "Arraysis",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Options",
+            "request": "launch",
+            "mainClass": "Options",
+            "projectName": "demo_9829a6f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch conditions",
+            "request": "launch",
+            "mainClass": "conditions",
+            "projectName": "demo_9829a6f2"
+        }
+    ]
+}

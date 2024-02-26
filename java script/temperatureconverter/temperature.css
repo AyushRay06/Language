@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: rgb(146, 232, 216);
+}
+
+h1{
+    font-size: 80px;
+    margin: 100px;
+}
+.Q{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+#temp{
+    font-size: 40px;
+}
+
+#submitbtn{
+    padding: 30px 70px;
+    background-color: rgb(54, 77, 207);
+    border: none;
+    border-radius: 8px;
+    color: aliceblue;
+    font-weight: 800;
+    font-size: 20px;
+}
+#submitbtn:hover{
+    background-color: rgb(104, 104, 127);
+    cursor: pointer;
+}
+
+.unit{
+    font-size: 40px;
+    font-weight: 500;
+}
